@@ -6,4 +6,4 @@ reached, the computer crashes, or the user closes out the window.  Once the main
 
 Pop-ups need to be enabled in order for the Browser Breaker to work properly.
 
-This is a joke website, feel free to use it in whatever way, shape, or form, as long as you credit me, @EthanJustice.
+This is a joke website, feel free to use it in whatever way, shape, or form, as long as you credit the creator, me, EthanJustice.
