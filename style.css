@@ -9,9 +9,9 @@ Body {
   border-radius: 50%;
   width: 45vw;
   height: 90vh;
-  font-size: 3rem;
-  border: 2px solid #C0C0C0;
-  box-shadow: 2px 5px #660000;
+  font-size: 10vw;
+  border: 2vw solid #C0C0C0;
+  box-shadow: 2vh 5vw #660000;
 }
 
 #destruct:active {
