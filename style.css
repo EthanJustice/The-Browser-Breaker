@@ -4,9 +4,6 @@ Body {
 }
 
 #destruct {
-  top: 9vh;
-  left: 21.5vw;
-  position: absolute;
   color: white;
   background-color: crimson;
   border-radius: 50%;
