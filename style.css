@@ -3,6 +3,10 @@ Body {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.button-wrap {
+  text-align: center;
+}
+
 #destruct {
   color: white;
   background-color: crimson;
