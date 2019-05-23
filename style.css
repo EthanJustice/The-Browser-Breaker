@@ -1,6 +1,6 @@
 Body {
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: monospace;
 }
 
 .button-wrap {
@@ -20,4 +20,8 @@ Body {
 
 #destruct:active {
   box-shadow: none;
+}
+
+a, a:visited {
+  margin: 5% 0;
 }
