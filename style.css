@@ -22,6 +22,6 @@ Body {
   box-shadow: none;
 }
 
-a, a:visited {
-  margin: 15vh 0 0 0;
+h2 a, h2 a:visited {
+  margin: 15% 0 0 0 !important;
 }
