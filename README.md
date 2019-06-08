@@ -9,6 +9,5 @@ Pop-ups need to be enabled in order for the Browser Breaker to work properly.
 This is a joke website, and is not intended for harmful or malicious purposes.  Please use with responsibility.
 
 Demos:
-+ [Full Version](https://ethanjustice.github.io/The-Browser-Breaker/)
-+ [Minified Version](https://ethanjustice.github.io/The-Browser-Breaker/min/index.html)
-+ [Direct Minified Version](https://ethanjustice.github.io/The-Browser-Breaker/min/spam.html)
++ [Demo](https://ethanjustice.github.io/The-Browser-Breaker/src/index.html)
++ [Direct Link (Use with Caution!)](https://ethanjustice.github.io/The-Browser-Breaker/src/spam.html)
