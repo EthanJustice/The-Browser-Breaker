@@ -1,4 +1,4 @@
-# The-Browser-Breaker
+# The Browser Breaker
 A meme website that spams tabs.
 
 The Browser Breaker is a simple vanilla JavaScript application that creates tabs repeatedly until the maximum number of tabs is
