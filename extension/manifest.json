@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "The-Browser-Breaker",
+    "version": "0.5",
+    "description": "Benchmarking in the browser.",
+    "homepage_url": "https://github.com/EthanJustice/The-Browser-Breaker/",
+    "icons": {
+      "48": "icons/browser-48.png"
+    },
+  
+    "permissions": [
+      "tabs"
+    ],
+      
+    "background": {
+      "scripts": ["breaker.js"]
+    }
+  
+  }  
