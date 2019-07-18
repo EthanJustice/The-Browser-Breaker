@@ -7,11 +7,7 @@
     "icons": {
       "48": "icons/browser-48.png"
     },
-  
-    "permissions": [
-      "tabs"
-    ],
-      
+    
     "background": {
       "scripts": ["breaker.js"]
     }
