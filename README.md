@@ -1,14 +1,9 @@
 # The Browser Breaker
-A meme website that spams tabs.
 
-The Browser Breaker is a simple vanilla JavaScript application that creates tabs repeatedly until the maximum number of tabs is
-reached, the computer crashes, or the user closes out the window.  Once the main button is clicked, the inital webpage is replaced with the spam.html file, which then proceeds to create new tabs of itself.  Thus each tab created from the original will have theoretically ininite copies of itself.
+This is a joke, and is not intended for harmful or malicious purposes.  Please use responsibly.
 
-Pop-ups need to be enabled in order for the Browser Breaker to work properly.
+## Links
 
-This is a joke website, and is not intended for harmful or malicious purposes.  Please use with responsibility.
-
-Links:
-+ [Website](https://ethanjustice.github.io/The-Browser-Breaker/)
-+ [Demo](https://ethanjustice.github.io/The-Browser-Breaker/src/index.html)
-+ [Direct Link (Use with Caution!)](https://ethanjustice.github.io/The-Browser-Breaker/src/spam.html)
++ [Website](https://ethanjustice.github.io/browser-breaker/)
++ [Normal (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/normal.html)
++ [Strenuous (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/strenuous.html)
