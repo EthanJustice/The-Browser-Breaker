@@ -19,5 +19,4 @@ To remove the Browser Breaker extension, close out all Firefox windows.
 ## Links
 
 + [Website](https://ethanjustice.github.io/browser-breaker/)
-+ [Normal (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/normal.html)
-+ [Strenuous (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/strenuous.html)
++ [Normal (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/)
