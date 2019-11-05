@@ -14,9 +14,10 @@ The Browser Breaker extension is built for Firefox, and only tested upon Firefox
 6. Open a new tab and enable pop-ups
 
 ### Removal
+
 To remove the Browser Breaker extension, close out all Firefox windows.
 
 ## Links
 
-+ [Website](https://ethanjustice.github.io/browser-breaker/)
-+ [Normal (Direct Link)](https://ethanjustice.github.io/browser-breaker/src/)
++ [Site](https://ethanjustice.github.io/browser-breaker/)
++ [Direct Link](https://ethanjustice.github.io/browser-breaker/src/)
